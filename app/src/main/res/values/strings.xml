@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Login</string>
+
+    <string name="title_bold">Earn extra money driving.</string>
+    <string name="title_little">Sign up with Bolt.</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+    <string name="get_mails">Get mails for be notified about news.</string>
+    <string name="privacy_policy">I read and accepted privacy policy</string>
+</resources>
